@@ -1,4 +1,4 @@
-# Status - Selected, but discontinued due to some reason
+# Verdict - Selected, but not joined due to some reason
 
 # App Link
 https://drive.google.com/file/d/1DS5UD6LB7s_J5sasgnuCn7FP8_8w9CYC/view?usp=sharing
